@@ -44,4 +44,8 @@ public class MainActivity extends AppCompatActivity {
         txtNamAm = findViewById(R.id.txtChuyenDoi);
         btnChuyenDoi = findViewById(R.id.btnChuyenDoi);
     }
+
+    public void event(){
+        
+    }
 }
